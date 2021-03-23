@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndrelsOliveira
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: https://www.linkedin.com/in/andre-luis-oliveira/
